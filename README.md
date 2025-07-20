@@ -94,7 +94,7 @@ The following signals are defined in the design and testbench:
 ## original report
 ![Original report](timingreportorig.png)
 
-## optimised reportS
+## optimised report
 ![Optimized report](timingreportopt.png)
 
 ---
@@ -104,7 +104,11 @@ The following signals are defined in the design and testbench:
 
 ## 🖥️ utilization reports 
 
+
+## original report
 ![Original report](utilizationreportorig.png)
+
+## optimised report
 ![Optimized report](utilizationreportopt.png)
 
 ---
