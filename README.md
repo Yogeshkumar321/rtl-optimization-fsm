@@ -1,4 +1,4 @@
-# rtl-optimization-fsm
+
 ✨ RTL Optimization Project ✨ 🚦 Traffic Light FSM | 🛠 Original vs Optimized Design 📉 Reduced LUT & FF | ⚡ Improved Timing 🧪 Includes Verilog Code + Testbench 📊 Vivado Reports & Simulation Results ✅ Learn Debugging & Resource Optimization!
 
 # 🔧 RTL Optimization & Debugging Design and Verification
@@ -91,7 +91,10 @@ The following signals are defined in the design and testbench:
 
 ## 🖥️ timing reports 
 
+## original report
 ![Original report](timingreportorig.png)
+
+## optimised reportS
 ![Optimized report](timingreportopt.png)
 
 ---
