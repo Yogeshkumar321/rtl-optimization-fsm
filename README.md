@@ -91,8 +91,8 @@ The following signals are defined in the design and testbench:
 
 ## 🖥️ timing reports 
 
-![Original report](screenshots/original_waveform.png)
-![Optimized report](screenshots/optimized_waveform.png)
+![Original report](timingreportorig.png)
+![Optimized report](timingreportopt.png)
 
 ---
 
@@ -101,8 +101,8 @@ The following signals are defined in the design and testbench:
 
 ## 🖥️ utilization reports 
 
-![Original report](screenshots/original_waveform.png)
-![Optimized report](screenshots/optimized_waveform.png)
+![Original report](utilizationreportorig.png)
+![Optimized report](utilizationreportopt.png)
 
 ---
 
@@ -137,8 +137,8 @@ The following signals are defined in the design and testbench:
 
 ## 🖥️ Sample Waveforms
 
-![Original Waveform](screenshots/original_waveform.png)
-![Optimized Waveform](screenshots/optimized_waveform.png)
+![Original Waveform](outputwaveform.png)
+
 
 ---
 
